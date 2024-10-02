@@ -1,7 +1,9 @@
 # Project specific
 
 
+*.xml
 *data/
+*saved_json/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
